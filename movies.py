@@ -32,7 +32,7 @@ def sqlselect():
     cur.execute(query2)
     result2=cur.fetchall()   
     print(result)
-    print("\n#")
+    print("\n")
     print(result2)
     
 #function calls
