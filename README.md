@@ -1,2 +1,2 @@
 # sqlitequeries
-A sample sqlite queries that are being implemented in python
+Required sample queries have been implemented both in java and python
